@@ -1,2 +1,0 @@
-# Bookself-test
-Test Dicoding
